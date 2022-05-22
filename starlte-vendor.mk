@@ -43,7 +43,6 @@ PRODUCT_PACKAGES += \
     libopenvx \
     libaudioeffectoffload \
     audio.primary.exynos9810 \
-    sound_trigger.primary.exynos9810 \
     lib_SamsungRec_06006 \
     libaudioproxy \
     librecordalive \
